@@ -26,7 +26,6 @@ int main(){
     vector<int> cardnum(193,1);
 
     int a=193;
-    // cin>>a;
     int card;
     
     for(card=0;card<a;card++){
